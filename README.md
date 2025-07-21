@@ -1,127 +1,127 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="github-image.png" alt="33 Concepts Every JS Developer Should Know"></a>
+  <a href="https://github.com/leonardomso/33"><img src="github-image.png" alt="33 Concepten Die Elke JS-ontwikkelaar Moet Kennen"></a>
   <br>
     <br>
-  <strong>33 Concepts Every JavaScript Developer Should Know</strong>
+  <strong>33 Concepten Die Elke JavaScript Ontwikkelaar Moet Kennen</strong>
   <br><br>
 </h1>
 
 <div align="center">
   <p>
-    <a href="#introduction">Introduction</a> •
+    <a href="#inleiding">Inleiding</a> •
     <a href="#community">Community</a> •
-    <a href="#table-of-contents">Table of Contents</a> •
-    <a href="#license">License</a>
+    <a href="#inhoudsopgave">Inhoudsopgave</a> •
+    <a href="#licentie">Licentie</a>
   </p>
 </div>
 
 <div align="center">
-  <strong>🚀 Considered by GitHub as one of the <a href="https://blog.github.com/2018-12-13-new-open-source-projects/">top open source projects of 2018!</a></strong>
+  <strong>🚀 Door GitHub beschouwd als een van de <a href="https://blog.github.com/2018-12-13-new-open-source-projects/">top open source projecten van 2018!</a></strong>
 </div>
 
-## Introduction 
+## Inleiding
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by Stephen Curtis and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Deze repository is gemaakt met de bedoeling ontwikkelaars te helpen hun kennis van JavaScript-concepten te beheersen. Het is geen vereiste, maar een gids voor toekomstige studies. Het is gebaseerd op een artikel geschreven door Stephen Curtis, dat je [hier](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) kunt lezen.
 
 ## Community
 
-Feel free to submit a PR by adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+Voel je vrij om een PR in te dienen door een link toe te voegen naar je eigen samenvattingen of recensies. Als je de repo wilt vertalen naar je moedertaal, doe dat gerust.
 
-All the translations for this repo will be listed below:
+Alle vertalingen voor deze repo worden hieronder vermeld:
 
-- [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
-- [Български (Bulgarian)](https://github.com/thewebmasterp/33-js-concepts) - thewebmasterp
-- [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Português do Brasil (Brazilian Portuguese)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [한국어 (Korean)](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Español (Spanish)](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Türkçe (Turkish)](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [русский язык (Russian)](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt (Vietnamese)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polski (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [فارسی (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Bahasa Indonesia (Indonesian)](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [Français (French)](https://github.com/robinmetral/33-concepts-js) — Robin Métral
+- [اَلْعَرَبِيَّةُ‎ (Arabisch)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
+- [Български (Bulgaars)](https://github.com/thewebmasterp/33-js-concepts) - thewebmasterp
+- [汉语 (Chinees)](https://github.com/stephentian/33-js-concepts) — Re Tian
+- [Português do Brasil (Braziliaans Portugees)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
+- [한국어 (Koreaans)](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
+- [Español (Spaans)](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
+- [Türkçe (Turks)](https://github.com/ilker0/33-js-concepts) — İlker Demir
+- [русский язык (Russisch)](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
+- [Tiếng Việt (Vietnamees)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
+- [Polski (Pools)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
+- [فارسی (Perzisch)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
+- [Bahasa Indonesia (Indonesisch)](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Français (Frans)](https://github.com/robinmetral/33-concepts-js) — Robin Métral
 - [हिन्दी (Hindi)](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Ελληνικά (Greek)](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [日本語 (Japanese)](https://github.com/oimo23/33-js-concepts) — oimo23
-- [Deutsch (German)](https://github.com/burhannn/33-js-concepts) — burhannn
-- [украї́нська мо́ва (Ukrainian)](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
-- [සිංහල (Sinhala)](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
-- [Italiano (Italian)](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
-- [Latviešu (Latvian)](https://github.com/ANormalStick/33-js-concepts) - Jānis Īvāns
+- [Ελληνικά (Grieks)](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [日本語 (Japans)](https://github.com/oimo23/33-js-concepts) — oimo23
+- [Deutsch (Duits)](https://github.com/burhannn/33-js-concepts) — burhannn
+- [украї́нська мо́ва (Oekraïens)](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
+- [සිංහල (Singalees)](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
+- [Italiano (Italiaans)](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
+- [Latviešu (Lets)](https://github.com/ANormalStick/33-js-concepts) - Jānis Īvāns
 - [Afaan Oromoo (Oromo)](https://github.com/Amandagne/33-js-concepts) - Amanuel Dagnachew
-- [ภาษาไทย (Thai)](https://github.com/ninearif/33-js-concepts) — Arif Waram
-- [Català (Catalan)](https://github.com/marioestradaf/33-js-concepts) — Mario Estrada
-- [Svenska (Swedish)](https://github.com/FenixHongell/33-js-concepts/) — Fenix Hongell
+- [ภาษาไทย (Thais)](https://github.com/ninearif/33-js-concepts) — Arif Waram
+- [Català (Catalaans)](https://github.com/marioestradaf/33-js-concepts) — Mario Estrada
+- [Svenska (Zweeds)](https://github.com/FenixHongell/33-js-concepts/) — Fenix Hongell
 - [ខ្មែរ (Khmer)](https://github.com/Chhunneng/33-js-concepts) — Chrea Chanchhunneng
-- [አማርኛ (Ethiopian)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
-- [Беларуская мова (Belarussian)](https://github.com/Yafimau/33-js-concepts) — Dzianis Yafimau
-- [O'zbekcha (Uzbek)](https://github.com/smnv-shokh/33-js-concepts) — Shokhrukh Usmonov
+- [አማርኛ (Ethiopisch)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
+- [Беларуская мова (Wit-Russisch)](https://github.com/Yafimau/33-js-concepts) — Dzianis Yafimau
+- [O'zbekcha (Oezbeeks)](https://github.com/smnv-shokh/33-js-concepts) — Shokhrukh Usmonov
 - [Urdu (اردو)](https://github.com/sudoyasir/33-js-concepts) — Yasir Nawaz
 - [हिन्दी (Hindi)](https://github.com/milostivyy/33-js-concepts) — Mahima Chauhan
-- [বাংলা (Bengali)](https://github.com/Jisan-mia/33-js-concepts) — Jisan Mia
+- [বাংলা (Bengaals)](https://github.com/Jisan-mia/33-js-concepts) — Jisan Mia
 - [ગુજરાતી (Gujarati)](https://github.com/VatsalBhuva11/33-js-concepts) — Vatsal Bhuva
 - [سنڌي (Sindhi)](https://github.com/Sunny-unik/33-js-concepts) — Sunny Gandhwani
 - [भोजपुरी (Bhojpuri)](https://github.com/debnath003/33-js-concepts) — Pronay Debnath
 - [ਪੰਜਾਬੀ (Punjabi)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
-- [Latin (Latin)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
+- [Latin (Latijn)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
 - [മലയാളം (Malayalam)](https://github.com/Stark-Akshay/33-js-concepts) — Akshay Manoj
 - [Yorùbá (Yoruba)](https://github.com/ayobaj/33-js-concepts) - Ayomide Bajulaye
-- [עברית‎ (Hebrew)](https://github.com/rafyzg/33-js-concepts) — Refael Yzgea
+- [עברית‎ (Hebreeuws)](https://github.com/rafyzg/33-js-concepts) — Refael Yzgea
 
 <hr>
 
-## <img align="center" width="35" height="35" src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif"> <a id="table-of-contents">Table of Contents</a>
+## <img align="center" width="35" height="35" src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif"> <a id="inhoudsopgave">Inhoudsopgave</a>
 
 1. [**Call Stack**](#1-call-stack)
-2. [**Primitive Types**](#2-primitive-types)
-3. [**Value Types and Reference Types**](#3-value-types-and-reference-types)
-4. [**Implicit, Explicit, Nominal, Structuring and Duck Typing**](#4-implicit-explicit-nominal-structuring-and-duck-typing)
+2. [**Primitieve Types**](#2-primitive-types)
+3. [**Waarde Types en Referentie Types**](#3-value-types-and-reference-types)
+4. [**Impliciet, Expliciet, Nominaal, Structureel en Duck Typing**](#4-implicit-explicit-nominal-structuring-and-duck-typing)
 5. [**== vs === vs typeof**](#5--vs--vs-typeof)
-6. [**Function Scope, Block Scope and Lexical Scope**](#6-function-scope-block-scope-and-lexical-scope)
-7. [**Expression vs Statement**](#7-expression-vs-statement)
-8. [**IIFE, Modules and Namespaces**](#8-iife-modules-and-namespaces)
-9. [**Message Queue and Event Loop**](#9-message-queue-and-event-loop)
-10. [**setTimeout, setInterval and requestAnimationFrame**](#10-settimeout-setinterval-and-requestanimationframe)
+6. [**Functie Scope, Blok Scope en Lexicale Scope**](#6-function-scope-block-scope-and-lexical-scope)
+7. [**Expressie vs Statement**](#7-expression-vs-statement)
+8. [**IIFE, Modules en Namespaces**](#8-iife-modules-and-namespaces)
+9. [**Message Queue en Event Loop**](#9-message-queue-and-event-loop)
+10. [**setTimeout, setInterval en requestAnimationFrame**](#10-settimeout-setinterval-and-requestanimationframe)
 11. [**JavaScript Engines**](#11-javascript-engines)
-12. [**Bitwise Operators, Type Arrays and Array Buffers**](#12-bitwise-operators-type-arrays-and-array-buffers)
-13. [**DOM and Layout Trees**](#13-dom-and-layout-trees)
-14. [**Factories and Classes**](#14-factories-and-classes)
-15. [**this, call, apply and bind**](#15-this-call-apply-and-bind)
-16. [**new, Constructor, instanceof and Instances**](#16-new-constructor-instanceof-and-instances)
-17. [**Prototype Inheritance and Prototype Chain**](#17-prototype-inheritance-and-prototype-chain)
-18. [**Object.create and Object.assign**](#18-objectcreate-and-objectassign)
+12. [**Bitwise Operators, Typed Arrays en Array Buffers**](#12-bitwise-operators-type-arrays-and-array-buffers)
+13. [**DOM en Layout Trees**](#13-dom-and-layout-trees)
+14. [**Factories en Classes**](#14-factories-and-classes)
+15. [**this, call, apply en bind**](#15-this-call-apply-and-bind)
+16. [**new, Constructor, instanceof en Instances**](#16-new-constructor-instanceof-and-instances)
+17. [**Prototype Inheritance en Prototype Chain**](#17-prototype-inheritance-and-prototype-chain)
+18. [**Object.create en Object.assign**](#18-objectcreate-and-objectassign)
 19. [**map, reduce, filter**](#19-map-reduce-filter)
-20. [**Pure Functions, Side Effects, State Mutation and Event Propagation**](#20-pure-functions-side-effects-state-mutation-and-event-propagation)
+20. [**Pure Functions, Side Effects, State Mutatie en Event Propagation**](#20-pure-functions-side-effects-state-mutation-and-event-propagation)
 21. [**Closures**](#21-closures)
-22. [**High Order Functions**](#22-high-order-functions)
-23. [**Recursion**](#23-recursion)
-24. [**Collections and Generators**](#24-collections-and-generators)
+22. [**Higher Order Functions**](#22-high-order-functions)
+23. [**Recursie**](#23-recursion)
+24. [**Collecties en Generators**](#24-collections-and-generators)
 25. [**Promises**](#25-promises)
 26. [**async/await**](#26-asyncawait)
-27. [**Data Structures**](#27-data-structures)
-28. [**Expensive Operation and Big O Notation**](#28-expensive-operation-and-big-o-notation)
-29. [**Algorithms**](#29-algorithms)
-30. [**Inheritance, Polymorphism and Code Reuse**](#30-inheritance-polymorphism-and-code-reuse)
-31. [**Design Patterns**](#31-design-patterns)
-32. [**Partial Applications, Currying, Compose and Pipe**](#32-partial-applications-currying-compose-and-pipe)
-33. [**Clean Code**](#33-clean-code)
+27. [**Datastructuren**](#27-data-structures)
+28. [**Kostbare Operatie en Big O Notatie**](#28-expensive-operation-and-big-o-notation)
+29. [**Algoritmen**](#29-algorithms)
+30. [**Overerving, Polymorfisme en Code Hergebruik**](#30-inheritance-polymorphism-and-code-reuse)
+31. [**Ontwerppatronen**](#31-design-patterns)
+32. [**Partial Applications, Currying, Compose en Pipe**](#32-partial-applications-currying-compose-and-pipe)
+33. [**Schone Code**](#33-clean-code)
 
 <hr>
 
 ## 1. Call Stack
 
-<p>The call stack is a mechanism that the JavaScript interpreter uses to keep track of function execution within a program. In JavaScript, functions are executed in the order they are called. The call stack follows the Last In, First Out (LIFO) principle, meaning that the last function pushed onto the stack is the first one to be executed.</p>
+<p>De call stack is een mechanisme dat de JavaScript-interpreter gebruikt om bij te houden welke functies binnen een programma worden uitgevoerd. In JavaScript worden functies uitgevoerd in de volgorde waarin ze worden aangeroepen. De call stack volgt het Last In, First Out (LIFO) principe, wat betekent dat de laatst toegevoegde functie als eerste wordt uitgevoerd.</p>
 
-<p>According to the ECMAScript specification, the call stack is defined as part of the execution context. Whenever a function is called, a new execution context is created and placed at the top of the stack. Once the function completes, its execution context is removed from the stack, and control returns to the previous context. This helps manage synchronous code execution, as each function call must complete before the next one can begin.</p>
+<p>Volgens de ECMAScript-specificatie is de call stack gedefinieerd als onderdeel van de uitvoeringscontext. Telkens wanneer een functie wordt aangeroepen, wordt er een nieuwe uitvoeringscontext aangemaakt en bovenaan de stack geplaatst. Zodra de functie is voltooid, wordt de uitvoeringscontext verwijderd en keert de controle terug naar de vorige context. Dit helpt bij het beheren van synchrone code-uitvoering, omdat elke functieaanroep moet worden voltooid voordat de volgende kan beginnen.</p>
 
-### Reference
+### Referentie
 
 -  [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
-### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Artikelen
 
 -  [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
 -  [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
@@ -133,32 +133,32 @@ All the translations for this repo will be listed below:
 
 ### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
 
--  [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
--  [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
--  [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
--  [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
--  [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
--  [What the heck is the event loop anyway? — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
--  [How JavaScript Code is executed? ❤️& Call Stack — Akshay Saini](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+-  [Javascript: de Call Stack uitgelegd — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+-  [De JS Call Stack uitgelegd in 9 minuten — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+-  [Wat is de Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+-  [De Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+-  [JavaScript Uitvoering Begrijpen — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+-  [Wat is de event loop eigenlijk? — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+-  [Hoe JavaScript-code wordt uitgevoerd? ❤️& Call Stack — Akshay Saini](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 -  [Call Stacks - CS50](https://www.youtube.com/watch?v=aCPkszeKRa4)
--  [Learn the JavaScript Call Stack - codecupdev](https://www.youtube.com/watch?v=HXqXPGS96rw)
--  [JavaScript Functions and the Call Stack | How does the Call stack work - Chidre'sTechTutorials](https://www.youtube.com/watch?v=P6H-T4cUDR4)
+-  [Leer de JavaScript Call Stack - codecupdev](https://www.youtube.com/watch?v=HXqXPGS96rw)
+-  [JavaScript Functies en de Call Stack | Hoe werkt de Call Stack - Chidre'sTechTutorials](https://www.youtube.com/watch?v=P6H-T4cUDR4)
     
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Terug naar boven](#inhoudsopgave)**
 
 ---
 
 ## 2. Primitive Types
 
-<p>According to the ECMAScript specification, JavaScript has six primitive data types: string, number, bigint, boolean, undefined, and symbol. These types are immutable, meaning their values cannot be altered. There is also a special primitive type called null, which represents the intentional absence of any object value.</p>
+<p>Volgens de ECMAScript-specificatie heeft JavaScript zes primitieve datatypes: string, number, bigint, boolean, undefined en symbol. Deze types zijn onveranderlijk, wat betekent dat hun waarden niet kunnen worden aangepast. Er is ook een speciaal primitief type genaamd null, dat de opzettelijke afwezigheid van een objectwaarde vertegenwoordigt.</p>
 
-<p>Primitive values are directly assigned to a variable, and when you manipulate a primitive type, you're working directly on the value. Unlike objects, primitives do not have properties or methods, but JavaScript automatically wraps primitive values with object counterparts when necessary (e.g., when calling methods on strings).</p>
+<p>Primitieve waarden worden direct aan een variabele toegewezen, en wanneer je een primitief type manipuleert, werk je direct met de waarde. In tegenstelling tot objecten hebben primitieve types geen eigenschappen of methoden, maar JavaScript wikkelt primitieve waarden automatisch in object-tegenhangers wanneer dat nodig is (bijvoorbeeld bij het aanroepen van methoden op strings).</p>
 
-### Reference
+### Referentie
 
 -  [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
-### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Artikelen
 
 -  [Primitive and Non-primitive data-types in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/primitive-and-non-primitive-data-types-in-javascript)
 -  [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
@@ -183,15 +183,15 @@ All the translations for this repo will be listed below:
 - [TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=cC65D2q5f8I)
 - [Data Type in JavaScript - ScholarHat](https://www.youtube.com/watch?v=aFDvBjVjCh8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 3. Value Types and Reference Types
 
-<p>According to the ECMAScript specification, value types are stored directly in the location that the variable accesses. These include types like number, string, boolean, undefined, bigint, symbol, and null. When you assign a value type to a variable, the value itself is stored.</p>
+<p>Volgens de ECMAScript-specificatie worden waardetypes direct opgeslagen op de locatie die de variabele benadert. Dit zijn types zoals number, string, boolean, undefined, bigint, symbol en null. Wanneer je een waardetype aan een variabele toewijst, wordt de waarde zelf opgeslagen.</p>
 
-<p>Reference types, on the other hand, are objects stored in the heap. Variables assigned to reference types actually store references (pointers) to the objects, not the objects themselves. When you assign a reference type to another variable, both variables reference the same object in memory.</p>
+<p>Referentietypes daarentegen zijn objecten die in de heap worden opgeslagen. Variabelen die aan referentietypes zijn toegewezen, slaan eigenlijk verwijzingen (pointers) naar de objecten op, niet de objecten zelf. Wanneer je een referentietype aan een andere variabele toewijst, verwijzen beide variabelen naar hetzelfde object in het geheugen.</p>
 
 ### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -214,23 +214,23 @@ All the translations for this repo will be listed below:
 - [JavaScript - Reference vs Primitive Values/ Types - Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [Value Types and Reference Types in JavaScript - Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. Impliciet, Expliciet, Nominaal, Structureel en Duck Typing
 
-<p>The ECMAScript specification defines JavaScript as a dynamically typed language, meaning that types are associated with values rather than variables, and type checking occurs at runtime. There are various ways JavaScript manages types:</p>
+<p>De ECMAScript-specificatie definieert JavaScript als een dynamisch getypeerde taal, wat betekent dat types aan waarden zijn gekoppeld in plaats van aan variabelen, en typecontrole gebeurt tijdens runtime. JavaScript gaat op verschillende manieren met types om:</p>
 
-<p><strong>Implicit Typing (or Type Coercion):</strong> This occurs when JavaScript automatically converts one data type to another when required. For instance, JavaScript might convert a string to a number during an arithmetic operation. While this can simplify some code, it can also lead to unexpected results if not handled carefully.</p>
+<p><strong>Impliciete Typing (of Type Coercion):</strong> Dit gebeurt wanneer JavaScript automatisch het ene datatype naar een ander converteert wanneer dat nodig is. Bijvoorbeeld, JavaScript kan een string omzetten naar een getal tijdens een rekenkundige bewerking. Dit kan code vereenvoudigen, maar ook tot onverwachte resultaten leiden als je niet oplet.</p>
 
-<p><strong>Explicit Typing:</strong> Unlike implicit typing, explicit typing involves manually converting a value from one type to another using functions like Number(), String(), or Boolean().</p>
+<p><strong>Expliciete Typing:</strong> In tegenstelling tot impliciet, houdt expliciet typen in dat je handmatig een waarde van het ene type naar het andere converteert met functies als Number(), String() of Boolean().</p>
 
-<p><strong>Nominal Typing:</strong> JavaScript doesn't natively support nominal typing, where types are explicitly declared and checked. However, TypeScript, a superset of JavaScript, brings this feature to help catch type errors during development.</p>
+<p><strong>Nominaal Typen:</strong> JavaScript ondersteunt van zichzelf geen nominaal typen, waarbij types expliciet worden gedeclareerd en gecontroleerd. TypeScript, een superset van JavaScript, voegt deze mogelijkheid toe om typefouten tijdens de ontwikkeling te helpen opsporen.</p>
 
-<p><strong>Structural Typing:</strong> In this type system, types are based on the structure or properties of the data. JavaScript is a structurally typed language where objects are compatible if they share the same structure (i.e., the same set of properties and methods).</p>
+<p><strong>Structureel Typen:</strong> In dit typesysteem zijn types gebaseerd op de structuur of eigenschappen van de data. JavaScript is structureel getypeerd: objecten zijn compatibel als ze dezelfde structuur (dus dezelfde set eigenschappen en methoden) delen.</p>
 
-<p><strong>Duck Typing:</strong> This is a concept where an object's suitability is determined by the presence of certain properties and methods, rather than by the actual type of the object. JavaScript relies heavily on duck typing, where behavior is inferred from an object's properties rather than its declared type.</p>
+<p><strong>Duck Typing:</strong> Dit is een concept waarbij de bruikbaarheid van een object wordt bepaald door de aanwezigheid van bepaalde eigenschappen en methoden, niet door het daadwerkelijke type van het object. JavaScript maakt hier veel gebruik van: gedrag wordt afgeleid van de eigenschappen van een object, niet van het gedeclareerde type.</p>
 
 ### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -253,18 +253,19 @@ All the translations for this repo will be listed below:
 
 - [You Don't Know JS, 1st Edition: Types & Grammar — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 5. == vs === vs typeof
- According to the ECMAScript specification, JavaScript includes both strict (===) and loose (==) equality operators, which behave differently when comparing values. Here's a breakdown:
 
-== (Loose Equality): This operator performs type coercion before comparing two values. If the values are of different types, JavaScript will attempt to convert one or both values to a common type before comparison, which can lead to unexpected results.
+<p>Volgens de ECMAScript-specificatie kent JavaScript zowel strikte (===) als losse (==) gelijkheidsoperatoren, die zich verschillend gedragen bij het vergelijken van waarden. Een overzicht:</p>
 
-=== (Strict Equality): This operator compares both the value and the type without any type coercion. If the two values are not of the same type, the comparison will return false.
+<p><strong>== (Losse gelijkheid):</strong> Deze operator voert typecoercion uit voordat twee waarden worden vergeleken. Als de waarden verschillende types hebben, probeert JavaScript ze eerst naar een gemeenschappelijk type om te zetten, wat tot onverwachte resultaten kan leiden.</p>
 
-typeof Operator: The typeof operator is used to check the data type of a variable. While it's generally reliable, there are certain quirks, like how typeof null returns "object" instead of "null", due to a long-standing behavior in JavaScript's implementation.
+<p><strong>=== (Strikte gelijkheid):</strong> Deze operator vergelijkt zowel de waarde als het type zonder enige typecoercion. Als de twee waarden niet van hetzelfde type zijn, geeft de vergelijking false terug.</p>
+
+<p><strong>typeof-operator:</strong> De typeof-operator wordt gebruikt om het datatype van een variabele te controleren. Hoewel het meestal betrouwbaar is, zijn er eigenaardigheden, zoals dat typeof null "object" retourneert in plaats van "null", vanwege een oude eigenschap in de JavaScript-implementatie.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -288,18 +289,19 @@ typeof Operator: The typeof operator is used to check the data type of a variabl
 - [=== vs == in javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=a0S1iG3TgP0)
 - [The typeof operator in JS - CodeVault](https://www.youtube.com/watch?v=NSS5WRcv7yM)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 6. Function Scope, Block Scope and Lexical Scope
- The ECMAScript specification outlines three key types of scope:
 
-Function Scope: Variables declared within a function using var are only accessible within that function. This scope isolates variables from being accessed outside of the function where they are declared.
+<p>De ECMAScript-specificatie beschrijft drie belangrijke soorten scope:</p>
 
-Block Scope: Introduced with ES6, variables declared with let and const are block-scoped. This means they are only accessible within the specific block {} in which they are defined, such as inside loops or conditionals.
+<p><strong>Functie Scope:</strong> Variabelen die binnen een functie met var zijn gedeclareerd, zijn alleen binnen die functie toegankelijk. Deze scope zorgt ervoor dat variabelen niet buiten de functie beschikbaar zijn.</p>
 
-Lexical Scope: Refers to how variable access is determined based on the physical location of the variables in the code. Functions are lexically scoped, meaning that they can access variables from their parent scope.
+<p><strong>Blok Scope:</strong> Met ES6 zijn let en const geïntroduceerd, die blokscope hebben. Dit betekent dat ze alleen toegankelijk zijn binnen het specifieke blok {} waarin ze zijn gedeclareerd, bijvoorbeeld in een loop of een if-statement.</p>
+
+<p><strong>Lexicale Scope:</strong> Dit verwijst naar hoe variabelen toegankelijk zijn op basis van hun fysieke locatie in de code. Functies zijn lexicaal gescopeerd, wat betekent dat ze toegang hebben tot variabelen uit hun ouder-scope.</p>
 
 ### Books
 
@@ -332,12 +334,13 @@ Lexical Scope: Refers to how variable access is determined based on the physical
 - [Lexical scoping in javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=qT5S7GgIioE)
 - [Modern Scope Handling in JavaScript (ES6 and Beyond) -Prashant Dewangan ](https://www.youtube.com/watch?v=zMseUdOR7z8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 7. Expression vs Statement
-According to the ECMAScript specification, expressions produce a value, and statements are instructions to perform an action, such as variable assignment or control flow. Function declarations are hoisted and can be called before they are defined in the code, while function expressions are not hoisted and must be defined before being invoked.
+
+<p>Volgens de ECMAScript-specificatie leveren expressies een waarde op, terwijl statements instructies zijn om een actie uit te voeren, zoals een variabele toewijzen of een controleflow. Functiedeclaraties worden gehost en kunnen worden aangeroepen voordat ze in de code zijn gedefinieerd, terwijl functie-expressies niet worden gehost en eerst moeten worden gedefinieerd voordat ze kunnen worden aangeroepen.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -358,12 +361,14 @@ According to the ECMAScript specification, expressions produce a value, and stat
 - [Expression in javascript | Statement in javascript - Sathelli Srikanth](https://www.youtube.com/watch?v=cVDs3TZ-kXs)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 8. IIFE, Modules and Namespaces
-With the introduction of ES6 modules, the role of IIFEs in scope isolation has diminished but they still remain relevant.
+
+<p>Met de introductie van ES6-modules is de rol van IIFE's voor scope-isolatie afgenomen, maar ze zijn nog steeds relevant.</p>
+
 ### Reference
 
 -  [IIFE — MDN](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
@@ -395,12 +400,14 @@ With the introduction of ES6 modules, the role of IIFEs in scope isolation has d
 - [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
 - [JavaScript IIFE (Immediately Invoked Function Expressions) — Steve Griffith](https://www.youtube.com/watch?v=Xd7zgPFwVX8&)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 9. Message Queue and Event Loop
-The Event Loop is a critical part of JavaScript's concurrency model, ensuring non-blocking behavior by processing tasks in an asynchronous manner. Understanding how it interacts with the Message Queue and Microtasks is key to mastering JavaScript behavior.
+
+<p>De Event Loop is een cruciaal onderdeel van het concurrency-model van JavaScript. Het zorgt voor niet-blokkerend gedrag door taken asynchroon te verwerken. Begrijpen hoe de Event Loop samenwerkt met de Message Queue en Microtasks is essentieel om het gedrag van JavaScript te beheersen.</p>
+
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
 -  [JavaScript Event Loop Explained — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
@@ -421,11 +428,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Callbacks, Sincrono, Assíncrono e Event Loop (PT-BR)](https://www.youtube.com/watch?v=6lbBaM18X3g)
 - [JavaScript Event Loop: How it Works and Why it Matters in 5 Minutes - James Q Quick](https://www.youtube.com/watch?v=6lbBaM18X3g)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 10. setTimeout, setInterval and requestAnimationFrame
+
+<p>Deze functies worden gebruikt om uitgestelde of herhaalde code-uitvoering te plannen. setTimeout voert een functie één keer uit na een bepaalde tijd, setInterval herhaalt de uitvoering, en requestAnimationFrame is bedoeld voor animaties en synchroniseert met de refresh rate van het scherm.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -445,12 +454,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Timers — Steve Griffith](https://www.youtube.com/watch?v=0VVJSvlUgtg)
 - [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)   
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 11. JavaScript Engines
 
+<p>JavaScript-engines zijn programma's die JavaScript-code uitvoeren. Bekende engines zijn V8 (Chrome, Node.js), SpiderMonkey (Firefox) en JavaScriptCore (Safari). Ze vertalen JavaScript naar machinetaal en optimaliseren de uitvoering voor snelheid en efficiëntie.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -472,11 +482,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Under The Hood - JavaScript Engine Overview - Traversy Media](https://www.youtube.com/watch?v=oc6faXVc54E)
 - [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 12. Bitwise Operators, Type Arrays and Array Buffers
+
+<p>Bitwise operators voeren bewerkingen uit op de binaire representatie van getallen. Typed Arrays en Array Buffers maken het mogelijk om efficiënt met binaire data te werken, wat handig is voor bijvoorbeeld grafische toepassingen of werken met bestanden.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -494,11 +506,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JS Bitwise Operators and Binary Numbers — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=RRyxCmLX_ag)
 - [Deep Dive into Blobs, Files, and ArrayBuffers — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=ScZZoHj7mqY)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
-## 13. DOM and Layout Trees
+## 13. DOM en Layout Trees
+
+<p>De Document Object Model (DOM) is een representatie van de HTML-structuur van een webpagina. JavaScript kan de DOM manipuleren om de inhoud, structuur en stijl van een pagina dynamisch aan te passen. De layout tree wordt gebruikt door de browser om te bepalen hoe elementen worden weergegeven.</p>
 
 ### Reference
 
@@ -529,11 +543,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript DOM Manipulation Methods — Web Dev Simplified](https://www.youtube.com/watch?v=y17RuWkWdn8)
 - [JavaScript DOM Traversal Methods — Web Dev Simplified](https://www.youtube.com/watch?v=v7rSSy8CaYE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 14. Factories and Classes
+
+<p>Factories zijn functies die objecten genereren. Classes zijn blauwdrukken voor objecten en introduceren syntactische suiker voor het werken met prototypes. Beide patronen worden gebruikt voor het maken van herbruikbare objecten in JavaScript.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -554,11 +570,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Factory Functions in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
 - [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
-## 15. this, call, apply and bind
+## 15. this, call, apply en bind
+
+<p>Het sleutelwoord <code>this</code> verwijst naar het object waarop een functie wordt aangeroepen. Met <code>call</code>, <code>apply</code> en <code>bind</code> kun je de waarde van <code>this</code> expliciet instellen bij het uitvoeren van een functie.</p>
 
 ### Reference
 
@@ -602,11 +620,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [call, apply and bind method in JavaScript](https://www.youtube.com/watch?v=75W8UPQ5l7k&t=261s)
 - .[Javascript Interview Questions ( Call, Bind and Apply ) - Polyfills, Output Based, Explicit Binding - Roadside Coder] (https://youtu.be/VkmUOktYDAU?si=SdvLZ8FBmephPxjS)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
-## 16. new, Constructor, instanceof and Instances
+## 16. new, Constructor, instanceof en Instances
+
+<p>De <code>new</code>-operator maakt een nieuw object aan op basis van een constructorfunctie. <code>instanceof</code> controleert of een object is gemaakt door een bepaalde constructor. Instances zijn objecten die zijn aangemaakt via een constructor of class.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -619,11 +639,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 -  [JavaScript instanceof operator](https://flexiple.com/javascript/instanceof-javascript)
   
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 17. Prototype Inheritance and Prototype Chain
+
+<p>JavaScript gebruikt prototypische overerving: objecten kunnen eigenschappen en methoden erven van andere objecten via de prototype chain. Dit maakt codehergebruik en dynamische uitbreiding van objecten mogelijk.</p>
 
 ### Reference
 
@@ -671,11 +693,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [You Don't Know JS, 1st Edition: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 - [The Principles of Object-Oriented JavaScript - Nicholas C. Zakas](https://www.google.com.pk/books/edition/The_Principles_of_Object_Oriented_JavaSc/rorlAwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
-## 18. Object.create and Object.assign
+## 18. Object.create en Object.assign
+
+<p><code>Object.create</code> maakt een nieuw object met een opgegeven prototype. <code>Object.assign</code> kopieert de eigenschappen van een of meer bronobjecten naar een doelobject. Beide methoden zijn handig voor het werken met objecten en overerving.</p>
 
 ### Reference
 
@@ -701,11 +725,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
 - [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 19. map, reduce, filter
+
+<p>Dit zijn array-methoden die functioneel programmeren in JavaScript ondersteunen. <code>map</code> maakt een nieuwe array door een functie toe te passen op elk element, <code>filter</code> maakt een nieuwe array met elementen die voldoen aan een voorwaarde, en <code>reduce</code> reduceert een array tot één waarde.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -760,11 +786,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [map Array Method | JavaScript Tutorial - Florin Pop](https://www.youtube.com/watch?v=P4RAFdZDn3M)
 - [Different array methods in 1 minute | Midudev (Spanish)](https://youtu.be/Ah7-PPjQ5Ls)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 20. Pure Functions, Side Effects, State Mutation and Event Propagation
+
+<p>Pure functies geven altijd hetzelfde resultaat voor dezelfde invoer en hebben geen bijwerkingen. Side effects zijn veranderingen buiten de functie, zoals het aanpassen van globale variabelen of het manipuleren van de DOM. State mutatie verwijst naar het wijzigen van bestaande data. Event propagation beschrijft hoe events zich door de DOM verspreiden (bubbling en capturing).</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -795,11 +823,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Pure Functions - Programação Funcional: Parte 1 - Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 - [Event Propagation - JavaScript Event Bubbling and Propagation - Steve Griffith](https://www.youtube.com/watch?v=JYc7gr9Ehl0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 21. Closures
+
+<p>Een closure is een functie die toegang heeft tot variabelen uit zijn buitenste (lexicale) scope, zelfs nadat die scope is beëindigd. Closures maken het mogelijk om data privé te houden en functies te maken met bewaarde context.</p>
 
 ### Reference
 
@@ -847,11 +877,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Learn Closures In 7 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=3a0I8ICR1Vg)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
-## 22. High Order Functions
+## 22. Higher Order Functions
+
+<p>Higher order functions zijn functies die andere functies als argument nemen of een functie retourneren. Ze zijn een kernonderdeel van functioneel programmeren in JavaScript.</p>
 
 ### Books
 
@@ -878,11 +910,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Part 2: Understanding Why We Need Higher Order Functions - Codesmith](https://www.youtube.com/watch?v=28MXziDZkE4)
 - [Higher-Order Functions ft. Functional Programming - Akshay Saini](https://www.youtube.com/watch?v=HkWxvB1RJq0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 23. Recursion
+
+<p>Recursie is een techniek waarbij een functie zichzelf aanroept om een probleem op te lossen. Het is handig voor het oplossen van problemen die kunnen worden opgedeeld in kleinere, soortgelijke subproblemen.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -911,11 +945,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Recursion crash course - Colt Steele](https://www.youtube.com/watch?v=lMBVwYrmFZQ&ab_channel=ColtSteele)
 - [What Is Recursion - In Depth - Web Dev Simplified](https://www.youtube.com/watch?v=6oDQaB2one8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 24. Collections and Generators
+
+<p>Collecties zoals Map, Set, WeakMap en WeakSet bieden flexibele manieren om data op te slaan. Generators zijn speciale functies waarmee je de uitvoering kunt pauzeren en hervatten, wat handig is voor het genereren van reeksen of het werken met asynchrone data.</p>
 
 ### Reference
 
@@ -945,11 +981,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [The Differences between ES6 Maps and Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
 - [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 25. Promises
+
+<p>Promises zijn objecten die de uiteindelijke (asynchrone) uitkomst van een bewerking vertegenwoordigen. Ze maken het eenvoudiger om met asynchrone code te werken en callback-hell te voorkomen.</p>
 
 ### Reference
 
@@ -999,11 +1037,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Promises In 10 Minutes — Web Dev Simplified ](https://www.youtube.com/watch?v=DHvZLI7Db8E)
 - [Promises | Ep 02 Season 02 - Namaste JavaScript - Akshay Saini ](https://youtu.be/ap-6PPAuK1Y?si=Ri1fopXeYjlrHzpf)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 26. async/await
+
+<p>async/await is syntactische suiker bovenop promises, waarmee je asynchrone code kunt schrijven alsof het synchrone code is. Dit maakt de code leesbaarder en eenvoudiger te onderhouden.</p>
 
 ### Reference
 
@@ -1049,11 +1089,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Async Await — Web Dev Simplified](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
 - [Promise async and await in javascript — Hitesh Choudhary](https://youtu.be/Gjbr21JLfgg?si=SDCVKr9ONw2GsNdT)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 27. Data Structures
+
+<p>Datastructuren zoals arrays, objecten, stacks, queues, linked lists, trees en graphs zijn fundamenteel voor het efficiënt opslaan en manipuleren van data in JavaScript.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -1079,11 +1121,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Learning JavaScript Data Structures and Algorithms: Sorting — Packt Video](https://www.youtube.com/watch?v=Ymh_AurrMbA)
 - [JavaScript Data Structures: Getting Started — Academind](https://www.youtube.com/watch?v=41GSinwoMYA&ab_channel=Academind)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 28. Expensive Operation and Big O Notation
+
+<p>Kostbare operaties zijn bewerkingen die veel tijd of geheugen kosten. Big O-notatie wordt gebruikt om de complexiteit van algoritmen te beschrijven en te vergelijken, zodat je efficiëntere code kunt schrijven.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -1104,11 +1148,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Algorithms Crash Course: Learn Algorithms & "Big O" from the Ground Up! - Academind](https://www.youtube.com/watch?v=JgWm6sQwS_I)
 - [Big O Notation - Data Structures and Algorithms in Javascript - RoadSideCoder](https://www.youtube.com/watch?v=LaexPVi1VRE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 29. Algorithms
+
+<p>Algoritmen zijn stapsgewijze procedures voor het oplossen van problemen of het uitvoeren van taken. In JavaScript zijn veelgebruikte algoritmen onder andere sorteren, zoeken en het doorlopen van datastructuren.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -1131,11 +1177,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - 🎥 [JavaScript Data Structures: Getting Started - Academind](https://www.youtube.com/watch?v=41GSinwoMYA)
 - 🎥 [Algorithms and Data Structures - The Coding Train (Daniel Shiffman)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 30. Inheritance, Polymorphism and Code Reuse
+
+<p>Overerving maakt het mogelijk om eigenschappen en methoden van een object of class te erven. Polymorfisme betekent dat verschillende objecten op dezelfde manier kunnen worden behandeld. Code hergebruik zorgt voor minder duplicatie en onderhoud.</p>
 
 ### Reference
 
@@ -1158,11 +1206,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript ES6 Classes and Inheritance — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
 - [Polymorphism in JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 31. Design Patterns
+
+<p>Ontwerppatronen zijn herbruikbare oplossingen voor veelvoorkomende problemen in softwareontwikkeling. Bekende patronen in JavaScript zijn onder andere het modulepatroon, singleton, factory en observer.</p>
 
 ### Books
 
@@ -1196,11 +1246,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Design Patterns — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 32. Partial Applications, Currying, Compose and Pipe
+
+<p>Partial application en currying zijn technieken om functies te maken met vooraf ingevulde argumenten. Compose en pipe zijn manieren om functies te combineren tot nieuwe functies, wat leidt tot flexibele en herbruikbare code.</p>
 
 ### Books
 
@@ -1243,11 +1295,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
 - [call, apply and bind method in JavaScript](https://www.youtube.com/watch?v=75W8UPQ5l7k&t=261s)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 ---
 
 ## 33. Clean Code
+
+<p>Schone code is leesbaar, begrijpelijk en eenvoudig te onderhouden. Het volgen van best practices, duidelijke naamgeving en het vermijden van duplicatie dragen bij aan een hogere codekwaliteit.</p>
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
@@ -1274,13 +1328,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - 🎥 [JavaScript Clean Code](https://youtu.be/vPXzVNmCPg4?si=QR1k4E6Zx5H4mfcs)
 - 🎥 [Tips On Learning How To Code](https://www.youtube.com/watch?v=0wHyoBPc6zs)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
-## <img align="center" width="35" height="35" src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> <a id="license">License</a>
+## <img align="center" width="35" height="35" src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> <a id="licentie">Licentie</a>
 
 This software is licensed under MIT License. See [License](https://github.com/leonardomso/33-js-concepts/blob/master/LICENSE) for more information ©Leonardo Maldonado.
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Back to Top](#inhoudsopgave)**
 
 <hr>
 
